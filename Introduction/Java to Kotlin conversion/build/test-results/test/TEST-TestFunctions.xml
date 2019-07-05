@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestFunctions" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-05T14:54:08" hostname="minty" time="0.034">
+  <properties/>
+  <testcase name="collection" classname="TestFunctions" time="0.034"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
