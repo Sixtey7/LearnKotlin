@@ -1223,8 +1223,8 @@
                       <option name="index" value="2" />
                       <option name="name" value="In range" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Failed" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1246,19 +1246,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="10" />
+                                      <option name="length" value="106" />
                                       <option name="offset" value="60" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="/* TODO */" />
                                       <option name="possibleAnswer" value=" {&#10;    operator fun contains(item: MyDate): Boolean = start &lt;= item &amp;&amp; item &lt;= endInclusive&#10;}" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Failed" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class DateRange(val start: MyDate, val endInclusive: MyDate)/* TODO */&#10;&#10;fun checkInRange(date: MyDate, first: MyDate, last: MyDate): Boolean {&#10;    return date in DateRange(first, last)&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />

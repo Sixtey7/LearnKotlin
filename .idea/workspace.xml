@@ -1,7 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4021393f-ab59-48f1-929b-77b3e6547605" name="Default Changelist" comment="" />
+    <list default="true" id="4021393f-ab59-48f1-929b-77b3e6547605" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/Html builders/Builders-Html_builders_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Builders/The function apply/Builders-The_function_apply_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Filter map/Collections-Filter_map_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/FlatMap/Collections-FlatMap_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Fold/Collections-Fold_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Get used to new style/Collections-Get_used_to_new_style_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/GroupBy/Collections-GroupBy_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Introduction/Collections-Introduction_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Max min/Collections-Max_min_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Partition/Collections-Partition_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sort/Collections-Sort_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Collections/Sum/Collections-Sum_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Comparison/Conventions-Comparison_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Destructuring declarations/Conventions-Destructuring_declarations_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/For loop/Conventions-For_loop_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/In range/Conventions-In_range_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Invoke/Conventions-Invoke_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Conventions/Range to/Conventions-Range_to_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Generics/Generic functions/Generics-Generic_functions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Data classes/Introduction-Data_classes_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extension functions/Introduction-Extension_functions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Extensions on collections/Introduction-Extensions_on_collections_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Java to Kotlin conversion/Introduction-Java_to_Kotlin_conversion_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Object expressions/Introduction-Object_expressions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/SAM conversions/Introduction-SAM_conversions_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Smart casts/Introduction-Smart_casts_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Introduction/Strings/Introduction-Strings_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Lazy property/Properties-Lazy_property_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Properties/Properties/Properties-Properties_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/classes/TestComparison.html" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/classes/TestComparison.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/test-results/test/TEST-TestComparison.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/test-results/test/TEST-TestComparison.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conventions/In range/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/In range/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/util/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/Builders/Builders how it works/.gradle/" />
@@ -144,8 +291,32 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Conventions/In range/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="29">
+                  <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Conventions/In range/src/Task.kt" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1680" />
@@ -153,11 +324,44 @@
     <option name="width" value="2160" />
     <option name="height" value="2160" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="Course" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
+              <item name="LearnKotlin" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
+              <item name="LearnKotlin" type="ed842865:CourseNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
+              <item name="LearnKotlin" type="ed842865:CourseNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
+              <item name="LearnKotlin" type="ed842865:CourseNode" />
+              <item name="Conventions" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,12 +373,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562348268304" />
     <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Kotlin Koans1" />
   </component>
   <component name="RunDashboard">
@@ -202,6 +404,17 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Tests_in_'Conventions-Comparison_test' - 2019.07.05 at 13h 33m 12s.xml">
+      <configuration name="Tests in 'Conventions-Comparison_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Conventions-Comparison_test' - 2019.07.05 at 13h 33m 20s.xml">
+      <configuration name="Tests in 'Conventions-Comparison_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Conventions-In_range_test' - 2019.07.05 at 13h 35m 42s.xml">
+      <configuration name="Tests in 'Conventions-In_range_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -213,8 +426,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="3840" height="2080" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25573334" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25866666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -227,11 +441,12 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298857" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" visible="true" weight="0.3298857" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.3298857" />
+      <window_info active="true" anchor="right" id="Task" visible="true" weight="0.32986668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -241,5 +456,29 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Conventions/Comparison/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="29">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="7" selection-end-column="9" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conventions/In range/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="29">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
