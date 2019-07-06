@@ -1223,8 +1223,8 @@
                       <option name="index" value="2" />
                       <option name="name" value="In range" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Failed" />
-                      <option name="stepikChangeStatus" value="Info and Content changed" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Up to date" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1246,19 +1246,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="106" />
+                                      <option name="length" value="10" />
                                       <option name="offset" value="60" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="/* TODO */" />
                                       <option name="possibleAnswer" value=" {&#10;    operator fun contains(item: MyDate): Boolean = start &lt;= item &amp;&amp; item &lt;= endInclusive&#10;}" />
-                                      <option name="selected" value="true" />
-                                      <option name="status" value="Failed" />
+                                      <option name="selected" value="false" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="true" />
+                                <option name="highlightErrors" value="false" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class DateRange(val start: MyDate, val endInclusive: MyDate)/* TODO */&#10;&#10;fun checkInRange(date: MyDate, first: MyDate, last: MyDate): Boolean {&#10;    return date in DateRange(first, last)&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1315,8 +1315,8 @@
                       <option name="index" value="3" />
                       <option name="name" value="Range to" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1338,19 +1338,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="27" />
                                       <option name="offset" value="45" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="DateRange(this, other)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="operator fun MyDate.rangeTo(other: MyDate) = TODO()&#10;&#10;class DateRange(override val start: MyDate, override val endInclusive: MyDate): ClosedRange&lt;MyDate&gt;&#10;&#10;fun checkInRange(date: MyDate, first: MyDate, last: MyDate): Boolean {&#10;    return date in first..last&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1407,8 +1407,8 @@
                       <option name="index" value="4" />
                       <option name="name" value="For loop" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1430,19 +1430,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="51" />
+                                      <option name="length" value="493" />
                                       <option name="offset" value="0" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="class DateRange(val start: MyDate, val end: MyDate)" />
                                       <option name="possibleAnswer" value="class DateRange(val start: MyDate, val end: MyDate): Iterable&lt;MyDate&gt;{&#10;    override fun iterator(): Iterator&lt;MyDate&gt; = DateIterator(this)&#10;}&#10;&#10;class DateIterator(val dateRange:DateRange) : Iterator&lt;MyDate&gt; {&#10;    var current: MyDate = dateRange.start&#10;    override fun next(): MyDate {&#10;        val result = current&#10;        current = current.nextDay()&#10;        return result&#10;    }&#10;    override fun hasNext(): Boolean = current &lt;= dateRange.end&#10;}" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class DateRange(val start: MyDate, val end: MyDate)&#10;&#10;fun iterateOverDateRange(firstDate: MyDate, secondDate: MyDate, handler: (MyDate) -&gt; Unit) {&#10;    for (date in firstDate..secondDate) {&#10;        handler(date)&#10;    }&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1514,8 +1514,8 @@
                       <option name="index" value="5" />
                       <option name="name" value="Operators overloading" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1537,13 +1537,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="69" />
-                                      <option name="offset" value="139" />
+                                      <option name="length" value="117" />
+                                      <option name="offset" value="323" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="operator fun MyDate.plus(timeInterval: TimeInterval): MyDate = TODO()" />
                                       <option name="possibleAnswer" value="&#10;operator fun MyDate.plus(timeInterval: TimeInterval) = addTimeIntervals(timeInterval, 1)&#10;&#10;class RepeatedTimeInterval(val timeInterval: TimeInterval, val number: Int)&#10;operator fun TimeInterval.times(number: Int) = RepeatedTimeInterval(this, number)&#10;&#10;operator fun MyDate.plus(timeIntervals: RepeatedTimeInterval) = addTimeIntervals(timeIntervals.timeInterval, timeIntervals.number)&#10;" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -1561,19 +1561,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="64" />
-                                      <option name="offset" value="318" />
+                                      <option name="length" value="45" />
+                                      <option name="offset" value="731" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO(&quot;Uncomment&quot;) //return today + YEAR * 2 + WEEK * 3 + DAY * 5" />
                                       <option name="possibleAnswer" value="return today + YEAR * 2 + WEEK * 3 + DAY * 5" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import TimeInterval.*&#10;&#10;data class MyDate(val year: Int, val month: Int, val dayOfMonth: Int)&#10;&#10;enum class TimeInterval { DAY, WEEK, YEAR }&#10;&#10;operator fun MyDate.plus(timeInterval: TimeInterval): MyDate = TODO()&#10;&#10;fun task1(today: MyDate): MyDate {&#10;    return today + YEAR + WEEK&#10;}&#10;&#10;fun task2(today: MyDate): MyDate {&#10;    TODO(&quot;Uncomment&quot;) //return today + YEAR * 2 + WEEK * 3 + DAY * 5&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1630,8 +1630,8 @@
                       <option name="index" value="6" />
                       <option name="name" value="Destructuring declarations" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1653,19 +1653,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="10" />
+                                      <option name="length" value="5" />
                                       <option name="offset" value="0" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="/* TODO */" />
                                       <option name="possibleAnswer" value="data " />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="/* TODO */class MyDate(val year: Int, val month: Int, val dayOfMonth: Int)&#10;&#10;fun isLeapDay(date: MyDate): Boolean {&#10;&#10;    val (year, month, dayOfMonth) = date&#10;&#10;    // 29 February of a leap year&#10;    return year % 4 == 0 &amp;&amp; month == 2 &amp;&amp; dayOfMonth == 29&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1707,8 +1707,8 @@
                       <option name="index" value="7" />
                       <option name="name" value="Invoke" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1730,19 +1730,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="43" />
                                       <option name="offset" value="122" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="numberOfInvocations++&#10;        return this" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class Invokable {&#10;    var numberOfInvocations: Int = 0&#10;        private set&#10;    operator fun invoke(): Invokable {&#10;        TODO()&#10;    }&#10;}&#10;&#10;fun invokeTwice(invokable: Invokable) = invokable()()&#10;" />
                                 <option name="trackChanges" value="true" />
