@@ -8,49 +8,13 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/classes/TestComparison.html" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/classes/TestComparison.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/test-results/test/TEST-TestComparison.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/test-results/test/TEST-TestComparison.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Comparison/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Comparison/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Destructuring declarations/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Destructuring declarations/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/For loop/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Operators overloading/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Operators overloading/src/Task.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conventions/Range to/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Conventions/Range to/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/All Any and other predicates/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/All Any and other predicates/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Filter map/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Filter map/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Introduction/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Introduction/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -189,6 +153,10 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -206,13 +174,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conventions/Invoke/src/Task.kt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Collections/Max min/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="60">
-                  <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+                <MainEditorState relative-caret-position="15">
+                  <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="67" />
+                </MainEditorState>
+              </EduEditorState>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state>
+              <EduEditorState>
+                <MainEditorState relative-caret-position="75">
+                  <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -247,6 +228,10 @@
         <option value="$PROJECT_DIR$/Conventions/Operators overloading/src/Task.kt" />
         <option value="$PROJECT_DIR$/Conventions/Destructuring declarations/src/Task.kt" />
         <option value="$PROJECT_DIR$/Conventions/Invoke/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Introduction/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Filter map/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/All Any and other predicates/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -263,6 +248,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Course">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
+              <item name="LearnKotlin" type="ed842865:CourseNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
+              <item name="LearnKotlin" type="ed842865:CourseNode" />
+              <item name="Collections" type="d53b8fed:LessonNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
+              <item name="LearnKotlin" type="ed842865:CourseNode" />
+              <item name="Collections" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
+            <path>
+              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
+              <item name="LearnKotlin" type="ed842865:CourseNode" />
+              <item name="Collections" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -275,39 +289,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Course">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
-              <item name="LearnKotlin" type="ed842865:CourseNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
-              <item name="LearnKotlin" type="ed842865:CourseNode" />
-              <item name="Conventions" type="d53b8fed:LessonNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
-              <item name="LearnKotlin" type="ed842865:CourseNode" />
-              <item name="Conventions" type="d53b8fed:LessonNode" />
-              <item name="src" type="4928525d:TaskNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
-              <item name="LearnKotlin" type="ed842865:CourseNode" />
-              <item name="Conventions" type="d53b8fed:LessonNode" />
-              <item name="src" type="4928525d:TaskNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562422308731" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562422560847" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
@@ -337,42 +323,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Conventions-Operators_overloading_test' - 2019.07.06 at 09h 57m 47s.xml">
-      <configuration name="Tests in 'Conventions-Operators_overloading_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Conventions-Operators_overloading_test' - 2019.07.06 at 09h 58m 08s.xml">
-      <configuration name="Tests in 'Conventions-Operators_overloading_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Conventions-Operators_overloading_test' - 2019.07.06 at 09h 58m 26s.xml">
-      <configuration name="Tests in 'Conventions-Operators_overloading_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Conventions-Operators_overloading_test' - 2019.07.06 at 09h 58m 52s.xml">
-      <configuration name="Tests in 'Conventions-Operators_overloading_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Conventions-Operators_overloading_test' - 2019.07.06 at 09h 59m 10s.xml">
-      <configuration name="Tests in 'Conventions-Operators_overloading_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Conventions-Operators_overloading_test' - 2019.07.06 at 10h 03m 10s.xml">
-      <configuration name="Tests in 'Conventions-Operators_overloading_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Conventions-Operators_overloading_test' - 2019.07.06 at 10h 03m 11s.xml">
-      <configuration name="Tests in 'Conventions-Operators_overloading_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Conventions-Operators_overloading_test' - 2019.07.06 at 10h 03m 20s.xml">
-      <configuration name="Tests in 'Conventions-Operators_overloading_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Conventions-Destructuring_declarations_test' - 2019.07.06 at 10h 07m 09s.xml">
-      <configuration name="Tests in 'Conventions-Destructuring_declarations_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'Conventions-Invoke_test' - 2019.07.06 at 10h 11m 25s.xml">
       <configuration name="Tests in 'Conventions-Invoke_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Conventions-Invoke_test' - 2019.07.06 at 10h 11m 40s.xml">
+      <configuration name="Tests in 'Conventions-Invoke_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Introduction_test' - 2019.07.06 at 10h 22m 10s.xml">
+      <configuration name="Tests in 'Collections-Introduction_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Introduction_test' - 2019.07.06 at 10h 22m 32s.xml">
+      <configuration name="Tests in 'Collections-Introduction_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Introduction_test' - 2019.07.06 at 10h 22m 54s.xml">
+      <configuration name="Tests in 'Collections-Introduction_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Filter_map_test' - 2019.07.06 at 10h 25m 43s.xml">
+      <configuration name="Tests in 'Collections-Filter_map_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Filter_map_test' - 2019.07.06 at 10h 26m 13s.xml">
+      <configuration name="Tests in 'Collections-Filter_map_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-All_Any_and_other_predicates_test' - 2019.07.06 at 10h 29m 20s.xml">
+      <configuration name="Tests in 'Collections-All_Any_and_other_predicates_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-All_Any_and_other_predicates_test' - 2019.07.06 at 10h 29m 54s.xml">
+      <configuration name="Tests in 'Collections-All_Any_and_other_predicates_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-FlatMap_test' - 2019.07.06 at 11h 08m 06s.xml">
+      <configuration name="Tests in 'Collections-FlatMap_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="1680" height="1010" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15605876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15973072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,7 +379,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Task" order="3" visible="true" weight="0.35985312" />
+      <window_info anchor="right" id="Task" order="3" visible="true" weight="0.35985312" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Gradle" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
@@ -640,8 +626,99 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="60">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <MainEditorState relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Introduction/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Introduction/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="-586" />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Introduction/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState>
+              <caret column="64" selection-start-column="64" selection-end-column="64" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Filter map/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Filter map/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/All Any and other predicates/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="15">
+              <caret line="1" column="81" lean-forward="true" selection-start-line="1" selection-start-column="81" selection-end-line="1" selection-end-column="81" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState />
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Max min/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="15">
+              <caret line="1" column="61" selection-start-line="1" selection-start-column="61" selection-end-line="1" selection-end-column="67" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="75">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </MainEditorState>
           </EduEditorState>
         </state>

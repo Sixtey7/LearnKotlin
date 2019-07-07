@@ -1797,8 +1797,8 @@
                       <option name="index" value="1" />
                       <option name="name" value="Introduction" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1820,19 +1820,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="46" />
+                                      <option name="length" value="20" />
+                                      <option name="offset" value="44" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.toSet()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="fun Shop.getSetOfCustomers(): Set&lt;Customer&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -1904,8 +1904,8 @@
                       <option name="index" value="2" />
                       <option name="name" value="Filter map" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -1927,13 +1927,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="32" />
                                       <option name="offset" value="101" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.map { it.city }.toSet()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -1951,19 +1951,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="226" />
+                                      <option name="length" value="34" />
+                                      <option name="offset" value="252" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.filter { it.city == city }" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return the set of cities the customers are from&#10;fun Shop.getCitiesCustomersAreFrom(): Set&lt;City&gt; = TODO()&#10;&#10;// Return a list of the customers who live in the given city&#10;fun Shop.getCustomersFrom(city: City): List&lt;Customer&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2035,8 +2035,8 @@
                       <option name="index" value="3" />
                       <option name="name" value="All Any and other predicates" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -2058,13 +2058,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="33" />
                                       <option name="offset" value="113" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.all { it.city == city }" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2082,13 +2082,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="238" />
+                                      <option name="length" value="33" />
+                                      <option name="offset" value="265" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.any { it.city == city }" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2106,13 +2106,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="347" />
+                                      <option name="length" value="35" />
+                                      <option name="offset" value="401" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.count { it.city == city }" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2130,19 +2130,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="484" />
+                                      <option name="length" value="34" />
+                                      <option name="offset" value="567" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.find { it.city == city }" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return true if all customers are from the given city&#10;fun Shop.checkAllCustomersAreFrom(city: City): Boolean = TODO()&#10;&#10;// Return true if there is at least one customer from the given city&#10;fun Shop.hasCustomerFrom(city: City): Boolean = TODO()&#10;&#10;// Return the number of customers from the given city&#10;fun Shop.countCustomersFrom(city: City): Int = TODO()&#10;&#10;// Return a customer who lives in the given city, or null if there is none&#10;fun Shop.findAnyCustomerFrom(city: City): Customer? = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2214,8 +2214,8 @@
                       <option name="index" value="4" />
                       <option name="name" value="FlatMap" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -2237,13 +2237,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="39" />
                                       <option name="offset" value="99" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="orders.flatMap { it.products }.toSet()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2261,19 +2261,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="222" />
+                                      <option name="length" value="74" />
+                                      <option name="offset" value="255" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.flatMap { it.getOrderedProducts() }.toSet()" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return all products this customer has ordered&#10;fun Customer.getOrderedProducts(): Set&lt;Product&gt; = TODO()&#10;&#10;// Return all products that were ordered by at least one customer&#10;fun Shop.getAllOrderedProducts(): Set&lt;Product&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
