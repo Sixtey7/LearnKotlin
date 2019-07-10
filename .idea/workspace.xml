@@ -7,9 +7,12 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Max min/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Max min/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Sort/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sort/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Sum/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Sum/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -169,47 +172,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Collections/Max min/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Collections/GroupBy/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="60">
-                  <caret line="4" column="121" selection-start-line="4" selection-start-column="121" selection-end-line="4" selection-end-column="121" />
-                </MainEditorState>
-              </EduEditorState>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Collections/Max min/src/TestShop.kt">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state>
-              <EduEditorState>
-                <MainEditorState />
-              </EduEditorState>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Collections/Max min/src/Shop.kt">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state>
-              <EduEditorState>
-                <MainEditorState />
-              </EduEditorState>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Task.kt">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state>
-              <EduEditorState>
-                <MainEditorState relative-caret-position="75">
-                  <caret line="5" selection-start-line="5" selection-end-line="5" />
+                <MainEditorState relative-caret-position="29">
+                  <caret line="1" column="90" selection-start-line="1" selection-start-column="90" selection-end-line="1" selection-end-column="90" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -249,6 +217,9 @@
         <option value="$PROJECT_DIR$/Collections/All Any and other predicates/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/FlatMap/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/Max min/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Sort/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Sum/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -265,19 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Kotlin_Koans1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Course">
         <subPane>
           <expand>
@@ -306,6 +265,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kotlin_Koans1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnKotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -340,18 +311,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Conventions-Invoke_test' - 2019.07.06 at 10h 11m 40s.xml">
-      <configuration name="Tests in 'Conventions-Invoke_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Introduction_test' - 2019.07.06 at 10h 22m 10s.xml">
-      <configuration name="Tests in 'Collections-Introduction_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Introduction_test' - 2019.07.06 at 10h 22m 32s.xml">
-      <configuration name="Tests in 'Collections-Introduction_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Introduction_test' - 2019.07.06 at 10h 22m 54s.xml">
-      <configuration name="Tests in 'Collections-Introduction_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'Collections-Filter_map_test' - 2019.07.06 at 10h 25m 43s.xml">
       <configuration name="Tests in 'Collections-Filter_map_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -370,12 +329,24 @@
     <history-entry file="Tests_in_'Collections-Max_min_test' - 2019.07.08 at 07h 20m 47s.xml">
       <configuration name="Tests in 'Collections-Max_min_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="Tests_in_'Collections-Max_min_test' - 2019.07.09 at 22h 07m 14s.xml">
+      <configuration name="Tests in 'Collections-Max_min_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Sort_test' - 2019.07.09 at 22h 07m 58s.xml">
+      <configuration name="Tests in 'Collections-Sort_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Sum_test' - 2019.07.09 at 22h 09m 31s.xml">
+      <configuration name="Tests in 'Collections-Sum_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Sum_test' - 2019.07.09 at 22h 10m 24s.xml">
+      <configuration name="Tests in 'Collections-Sum_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1680" height="1010" extended-state="6" />
+    <frame x="0" y="-2" width="3840" height="2080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16034272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16213334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -388,15 +359,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" sideWeight="0.53304774" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" sideWeight="0.53304774" weight="0.3295325" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.46695226" side_tool="true" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.46695226" side_tool="true" visible="true" weight="0.32934132" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Build" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Task" order="3" visible="true" weight="0.29375765" />
+      <window_info active="true" anchor="right" id="Task" order="3" visible="true" weight="0.2936" />
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Gradle" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
@@ -719,12 +690,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Collections/Max min/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <MainEditorState relative-caret-position="116">
+              <caret line="4" column="121" selection-start-line="4" selection-start-column="121" selection-end-line="4" selection-end-column="121" />
             </MainEditorState>
           </EduEditorState>
         </state>
@@ -748,12 +719,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Collections/Max min/src/Task.kt">
+    <entry file="file://$PROJECT_DIR$/Collections/FlatMap/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
-            <MainEditorState relative-caret-position="60">
-              <caret line="4" column="121" selection-start-line="4" selection-start-column="121" selection-end-line="4" selection-end-column="121" />
+            <MainEditorState relative-caret-position="145">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Sort/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="29">
+              <caret line="1" column="101" selection-start-line="1" selection-start-column="101" selection-end-line="1" selection-end-column="101" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Sum/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="87">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/GroupBy/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="29">
+              <caret line="1" column="90" selection-start-line="1" selection-start-column="90" selection-end-line="1" selection-end-column="90" />
             </MainEditorState>
           </EduEditorState>
         </state>

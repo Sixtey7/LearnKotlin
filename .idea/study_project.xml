@@ -2345,7 +2345,7 @@
                       <option name="index" value="5" />
                       <option name="name" value="Max min" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Failed" />
+                      <option name="status" value="Solved" />
                       <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
@@ -2374,7 +2374,7 @@
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.maxBy { it.orders.size }" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Failed" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2398,7 +2398,7 @@
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="orders.flatMap { it.products }.maxBy { it.price }" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Failed" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -2476,8 +2476,8 @@
                       <option name="index" value="6" />
                       <option name="name" value="Sort" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -2499,19 +2499,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="37" />
                                       <option name="offset" value="146" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="customers.sortedBy { it.orders.size }" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return a list of customers, sorted by the ascending number of orders they made&#10;fun Shop.getCustomersSortedByNumberOfOrders(): List&lt;Customer&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2583,8 +2583,8 @@
                       <option name="index" value="7" />
                       <option name="name" value="Sum" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -2606,19 +2606,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="54" />
                                       <option name="offset" value="185" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="orders.flatMap { it.products }.sumByDouble { it.price }" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return the sum of prices of all products that a customer has ordered.&#10;// Note: the customer may order the same product for several times.&#10;fun Customer.getTotalOrderPrice(): Double = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -2691,7 +2691,7 @@
                       <option name="name" value="GroupBy" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -2713,7 +2713,7 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="29" />
                                       <option name="offset" value="114" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
@@ -2725,7 +2725,7 @@
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="// Return a map of the customers living in each city&#10;fun Shop.groupCustomersByCity(): Map&lt;City, List&lt;Customer&gt;&gt; = TODO()&#10;" />
                                 <option name="trackChanges" value="true" />
