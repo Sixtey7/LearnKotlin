@@ -10,7 +10,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Partition/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -170,12 +170,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Collections/Partition/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Collections/Fold/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
                 <MainEditorState relative-caret-position="145">
-                  <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+                  <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -219,6 +219,7 @@
         <option value="$PROJECT_DIR$/Collections/Sum/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/Partition/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Fold/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -310,27 +311,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Collections-FlatMap_test' - 2019.07.06 at 11h 08m 06s.xml">
-      <configuration name="Tests in 'Collections-FlatMap_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Max_min_test' - 2019.07.08 at 07h 20m 47s.xml">
-      <configuration name="Tests in 'Collections-Max_min_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Max_min_test' - 2019.07.09 at 22h 07m 14s.xml">
-      <configuration name="Tests in 'Collections-Max_min_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Sort_test' - 2019.07.09 at 22h 07m 58s.xml">
-      <configuration name="Tests in 'Collections-Sort_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Sum_test' - 2019.07.09 at 22h 09m 31s.xml">
-      <configuration name="Tests in 'Collections-Sum_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Sum_test' - 2019.07.09 at 22h 10m 24s.xml">
-      <configuration name="Tests in 'Collections-Sum_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-GroupBy_test' - 2019.07.09 at 22h 10m 50s.xml">
-      <configuration name="Tests in 'Collections-GroupBy_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'Collections-Partition_test' - 2019.07.10 at 05h 47m 34s.xml">
       <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -339,6 +319,27 @@
     </history-entry>
     <history-entry file="Tests_in_'Collections-Partition_test' - 2019.07.10 at 05h 48m 50s.xml">
       <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Partition_test' - 2019.07.10 at 05h 50m 05s.xml">
+      <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Partition_test' - 2019.07.10 at 05h 50m 57s.xml">
+      <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 37m 23s.xml">
+      <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 42m 11s.xml">
+      <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 43m 03s.xml">
+      <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 43m 17s.xml">
+      <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 44m 03s.xml">
+      <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -358,9 +359,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" sideWeight="0.53253335" weight="0.32934132" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" sideWeight="0.5312" visible="true" weight="0.32934132" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.46746665" side_tool="true" visible="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4688" side_tool="true" visible="true" weight="0.32934132" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Build" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -766,8 +767,19 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state>
           <EduEditorState>
+            <MainEditorState relative-caret-position="116">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Fold/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
             <MainEditorState relative-caret-position="145">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+              <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
             </MainEditorState>
           </EduEditorState>
         </state>
