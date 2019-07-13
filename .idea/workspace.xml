@@ -8,9 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Fold/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -170,12 +168,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Collections/Fold/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="145">
-                  <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
+                <MainEditorState relative-caret-position="87">
+                  <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -220,6 +218,7 @@
         <option value="$PROJECT_DIR$/Collections/GroupBy/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/Partition/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/Fold/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -311,12 +310,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Collections-Partition_test' - 2019.07.10 at 05h 47m 34s.xml">
-      <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Partition_test' - 2019.07.10 at 05h 48m 29s.xml">
-      <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'Collections-Partition_test' - 2019.07.10 at 05h 48m 50s.xml">
       <configuration name="Tests in 'Collections-Partition_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -341,6 +334,12 @@
     <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 44m 03s.xml">
       <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 44m 20s.xml">
+      <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Collections-Compound_tasks_test' - 2019.07.12 at 23h 42m 35s.xml">
+      <configuration name="Tests in 'Collections-Compound_tasks_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-2" width="3840" height="2080" extended-state="6" />
@@ -359,9 +358,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" sideWeight="0.5312" visible="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" sideWeight="0.5309333" visible="true" weight="0.32934132" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4688" side_tool="true" visible="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.46906668" side_tool="true" visible="true" weight="0.32934132" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Build" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -780,6 +779,17 @@
           <EduEditorState>
             <MainEditorState relative-caret-position="145">
               <caret line="5" column="85" selection-start-line="5" selection-start-column="85" selection-end-line="5" selection-end-column="85" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="87">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
             </MainEditorState>
           </EduEditorState>
         </state>
