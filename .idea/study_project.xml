@@ -3166,7 +3166,7 @@
                       <option name="index" value="12" />
                       <option name="name" value="Get used to new style" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
@@ -3195,7 +3195,7 @@
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="s.length" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -3219,7 +3219,7 @@
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="group.size" />
                                       <option name="selected" value="true" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -3243,7 +3243,7 @@
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="group.size == maximumSizeOfGroup" />
                                       <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -3334,8 +3334,8 @@
                       <option name="index" value="1" />
                       <option name="name" value="Properties" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -3357,19 +3357,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="3" />
-                                      <option name="offset" value="95" />
+                                      <option name="length" value="81" />
+                                      <option name="offset" value="91" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="set" />
                                       <option name="possibleAnswer" value="set(v: Int?) {&#10;            field = v&#10;            counter++&#10;        }" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class PropertyExample() {&#10;    var counter = 0&#10;    var propertyWithCounter: Int? = null&#10;        set&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
