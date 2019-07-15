@@ -3411,8 +3411,8 @@
                       <option name="index" value="2" />
                       <option name="name" value="Lazy property" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -3434,13 +3434,13 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="10" />
-                                      <option name="offset" value="53" />
+                                      <option name="length" value="34" />
+                                      <option name="offset" value="49" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="/* TODO */" />
                                       <option name="possibleAnswer" value="var value: Int? = null" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
@@ -3458,19 +3458,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="110" />
+                                      <option name="length" value="102" />
+                                      <option name="offset" value="130" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="if (value == null) {&#10;                value = initializer()&#10;            }&#10;            return value!!" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class LazyProperty(val initializer: () -&gt; Int) {&#10;    /* TODO */&#10;    val lazy: Int&#10;        get() {&#10;            TODO()&#10;        }&#10;}&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3512,8 +3512,8 @@
                       <option name="index" value="3" />
                       <option name="name" value="Delegates examples" />
                       <option name="record" value="-1" />
-                      <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="status" value="Solved" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -3535,19 +3535,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="34" />
                                       <option name="offset" value="75" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="lazy(initializer)" />
-                                      <option name="selected" value="false" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="status" value="Solved" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="class LazyProperty(val initializer: () -&gt; Int) {&#10;    val lazyValue: Int by TODO()&#10;}&#10;&#10;" />
                                 <option name="trackChanges" value="true" />
@@ -3590,7 +3590,7 @@
                       <option name="name" value="Delegates how it works" />
                       <option name="record" value="-1" />
                       <option name="status" value="Unchecked" />
-                      <option name="stepikChangeStatus" value="Up to date" />
+                      <option name="stepikChangeStatus" value="Info and Content changed" />
                       <option name="files">
                         <map>
                           <entry key="src/Task.kt">
@@ -3612,7 +3612,7 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
+                                      <option name="length" value="31" />
                                       <option name="offset" value="302" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
@@ -3636,19 +3636,19 @@
                                         </MyInitialState>
                                       </option>
                                       <option name="initializedFromDependency" value="false" />
-                                      <option name="length" value="6" />
-                                      <option name="offset" value="403" />
+                                      <option name="length" value="32" />
+                                      <option name="offset" value="428" />
                                       <option name="placeholderDependency" />
                                       <option name="placeholderText" value="TODO()" />
                                       <option name="possibleAnswer" value="timeInMillis = value.toMillis()" />
-                                      <option name="selected" value="false" />
+                                      <option name="selected" value="true" />
                                       <option name="status" value="Unchecked" />
                                       <option name="studentAnswer" />
                                       <option name="useLength" value="true" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="name" value="src/Task.kt" />
                                 <option name="text" value="import kotlin.properties.ReadWriteProperty&#10;import kotlin.reflect.KProperty&#10;&#10;class D {&#10;    var date: MyDate by EffectiveDate()&#10;}&#10;&#10;class EffectiveDate&lt;R&gt; : ReadWriteProperty&lt;R, MyDate&gt; {&#10;&#10;    var timeInMillis: Long? = null&#10;&#10;    override fun getValue(thisRef: R, property: KProperty&lt;*&gt;): MyDate {&#10;        TODO()&#10;    }&#10;&#10;    override fun setValue(thisRef: R, property: KProperty&lt;*&gt;, value: MyDate) {&#10;        TODO()&#10;    }&#10;}&#10;&#10;" />
                                 <option name="trackChanges" value="true" />

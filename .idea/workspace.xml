@@ -10,7 +10,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/study_project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study_project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Properties/Properties/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Properties/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -170,12 +172,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Properties/Properties/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state>
               <EduEditorState>
-                <MainEditorState relative-caret-position="116">
-                  <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+                <MainEditorState relative-caret-position="319">
+                  <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
                 </MainEditorState>
               </EduEditorState>
             </state>
@@ -223,10 +225,13 @@
         <option value="$PROJECT_DIR$/Collections/Compound tasks/src/Task.kt" />
         <option value="$PROJECT_DIR$/Collections/Get used to new style/src/Task.kt" />
         <option value="$PROJECT_DIR$/Properties/Properties/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Lazy property/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt" />
+        <option value="$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="y" value="-2" />
     <option name="width" value="1680" />
     <option name="height" value="505" />
@@ -250,18 +255,13 @@
             <path>
               <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
               <item name="LearnKotlin" type="ed842865:CourseNode" />
-              <item name="Collections" type="d53b8fed:LessonNode" />
-            </path>
-            <path>
-              <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
-              <item name="LearnKotlin" type="ed842865:CourseNode" />
-              <item name="Collections" type="d53b8fed:LessonNode" />
-              <item name="src" type="4928525d:TaskNode" />
+              <item name="Properties" type="d53b8fed:LessonNode" />
             </path>
             <path>
               <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
               <item name="LearnKotlin" type="ed842865:CourseNode" />
               <item name="Properties" type="d53b8fed:LessonNode" />
+              <item name="src" type="4928525d:TaskNode" />
             </path>
             <path>
               <item name="Kotlin_Koans1" type="a264ea2a:RootNode" />
@@ -319,24 +319,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 43m 03s.xml">
-      <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 43m 17s.xml">
-      <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 44m 03s.xml">
-      <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Fold_test' - 2019.07.11 at 22h 44m 20s.xml">
-      <configuration name="Tests in 'Collections-Fold_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Compound_tasks_test' - 2019.07.12 at 23h 42m 35s.xml">
-      <configuration name="Tests in 'Collections-Compound_tasks_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
-    <history-entry file="Tests_in_'Collections-Compound_tasks_test' - 2019.07.12 at 23h 42m 52s.xml">
-      <configuration name="Tests in 'Collections-Compound_tasks_test'" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="Tests_in_'Collections-Compound_tasks_test' - 2019.07.12 at 23h 44m 05s.xml">
       <configuration name="Tests in 'Collections-Compound_tasks_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -348,6 +330,24 @@
     </history-entry>
     <history-entry file="Tests_in_'Properties-Properties_test' - 2019.07.14 at 06h 17m 04s.xml">
       <configuration name="Tests in 'Properties-Properties_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Properties-Lazy_property_test' - 2019.07.14 at 06h 21m 23s.xml">
+      <configuration name="Tests in 'Properties-Lazy_property_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Properties-Lazy_property_test' - 2019.07.14 at 06h 21m 56s.xml">
+      <configuration name="Tests in 'Properties-Lazy_property_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Properties-Lazy_property_test' - 2019.07.14 at 06h 21m 57s.xml">
+      <configuration name="Tests in 'Properties-Lazy_property_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Properties-Lazy_property_test' - 2019.07.14 at 06h 22m 12s.xml">
+      <configuration name="Tests in 'Properties-Lazy_property_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Properties-Delegates_examples_test' - 2019.07.14 at 22h 03m 48s.xml">
+      <configuration name="Tests in 'Properties-Delegates_examples_test'" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Properties-Delegates_examples_test' - 2019.07.14 at 22h 04m 03s.xml">
+      <configuration name="Tests in 'Properties-Delegates_examples_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -367,9 +367,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" sideWeight="0.5309333" weight="0.32934132" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="7" sideWeight="0.5304" weight="0.32934132" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.46906668" side_tool="true" visible="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.4696" side_tool="true" visible="true" weight="0.32934132" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Build" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -830,6 +830,39 @@
           <EduEditorState>
             <MainEditorState relative-caret-position="116">
               <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Lazy property/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="203">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Delegates examples/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="58">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </MainEditorState>
+          </EduEditorState>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/Delegates how it works/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state>
+          <EduEditorState>
+            <MainEditorState relative-caret-position="319">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
             </MainEditorState>
           </EduEditorState>
         </state>
